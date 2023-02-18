@@ -1,0 +1,33 @@
+html,
+body {
+  width: 800px;
+  height: 600px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+#filters * {
+  margin: 0px;
+}
+
+#examsTable_filter * {
+  width: 100% !important;
+}
+
+#examsTable {
+  height: 540px;
+  margin: 0px !important;
+}
+
+select {
+  font-weight: bold;
+}
+
+body,
+tr {
+  background-color: #f0f0f0 !important;
+}
+
+tr > * {
+  box-shadow: none !important;
+}

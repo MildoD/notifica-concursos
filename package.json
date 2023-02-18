@@ -1,0 +1,20 @@
+{
+  "name": "notifica-concursos",
+  "version": "0.1.0",
+  "description": "Essa extensão notifica quando concursos são abertos e também permite que você busque e filtre eles",
+  "repository": "https://mildo.dev/projects/notifica-concursos/",
+  "author": "Romildo Oliveira Souza Júnior <mildo@mildo.dev>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.3"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}
